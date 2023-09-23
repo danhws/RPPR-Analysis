@@ -6,7 +6,7 @@ Below is the developmental process which took place.
 
 ## Data Used
 
-The data comes from the Residential Property Price Register [(RPPR)] (https://www.propertypriceregister.ie/website/npsra/pprweb.nsf/page/ppr-home-en). The Residential Property Price Register is produced by the Property Services Regulatory Authority (PSRA). At the time of project commencemnt, the data included Date of Sale, Price and Address of all residential properties purchased in Ireland since the 1st January 2010, until 5th May 2023, as declared to the Revenue Commissioners for stamp duty purposes. In this analysis, we focus on using the data collected by RPPR to build a data analytics solution for residential property price prediction.
+The data comes from the [Residential Property Price Register (RPPR)](https://www.propertypriceregister.ie/website/npsra/pprweb.nsf/page/ppr-home-en). The Residential Property Price Register is produced by the Property Services Regulatory Authority (PSRA). At the time of project commencemnt, the data included Date of Sale, Price and Address of all residential properties purchased in Ireland since the 1st January 2010, until 5th May 2023, as declared to the Revenue Commissioners for stamp duty purposes. In this analysis, we focus on using the data collected by RPPR to build a data analytics solution for residential property price prediction.
 
 ## Data Cleaning
 
