@@ -19,7 +19,7 @@ Multiple data cleaning procedures were undertaken to prepare the data for analys
 
 The full cleaning process can be found in the [Cleaning and Analysis Notebook](Residential_Property_Price_Register(RPPR)_Cleaning_&_Analysis.ipynb).
 
-## Analysis & New Features
+## Analysis 
 
 Once cleaned, the data was analysed in the notebook using matplotlib. In addition, a Tableau dashboard can be found [here](https://public.tableau.com/views/RPPR_20102023/IrishResidentialPropertySales010110-030523?:language=en-US&:display_count=n&:origin=viz_share_link). Some key findings are as follows:
 - Over 80% of properties sold since 2010 have been second-hand. Dublin has the highest amount of properties sold, implying that there is a high demand for Dublin properties, yet it doesn't have one of the highest percentages of new houses sold. The two counties with the highest rates of new properties are Kildare and Meath, which neighbour Dublin, suggesting that if people can't get housing in Dublin, they will try to live nearby.
@@ -27,6 +27,8 @@ Once cleaned, the data was analysed in the notebook using matplotlib. In additio
 - The prices of new properties do not have VAT included in the price.
 - Property prices appear to increase with the size of the property.
 - There appears to be a relationship between the price of a property and its proximity to Dublin, with surrounding counties have the next highest average prices per county after Dublin.
+
+## New Features
 
 Four new features were derived from the cleaned dataset to gather further insight into prices. These are Dublin Postal Code, Month of Sale, Year of Sale and Geolocation. Analysis of these new features resulted in some more findings:
 - Dublin 15 appears to be a newly desirable area to live as it has the highest number of properties sold and the fourth highest rate of new properties sold in Dublin.
