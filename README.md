@@ -17,7 +17,7 @@ Multiple data cleaning procedures were undertaken to prepare the data for analys
 - Dropping the Eircode feature as it had a large amount of null values.
 - Removing outliers.
 
-The full cleaning process can be found in the [Cleaning and Analysis Notebook](Residential_Property_Price_Register(RPPR)_Cleaning_&_Analysis.ipynb).
+The full cleaning process can be found in the [Cleaning and Analysis Notebook](Residential_Property_Price_Register(RPPR)_Cleaning_&_Analysis.ipynb) or the [Notebook PDF](Residential_Property_Price_Register(RPPR)_Cleaning_&_Analysis.pdf).
 
 ## Analysis 
 
